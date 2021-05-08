@@ -10,5 +10,7 @@ Danny has shared with you 3 key datasets for this case study:
 sales
 menu
 members
-Entity Relationship Diagram:
-![image](https://user-images.githubusercontent.com/67474818/117551293-cb5bb280-b062-11eb-9776-9bea039d772b.png)
+## Entity Relationship Diagram:
+![image](https://user-images.githubusercontent.com/67474818/117551348-15dd2f00-b063-11eb-8ff4-5b8b2ac8f412.png)
+
+
